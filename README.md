@@ -1,3 +1,7 @@
+[![make.fun · u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![rank](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/calebakinjomo/office-joke-24h/rank.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![reward](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/calebakinjomo/office-joke-24h/reward.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+
 # One-Line Office Joke: 24-Hour Sprint
 
 Entry for the make.fun bounty
@@ -17,3 +21,7 @@ well under the 200-character limit.
 The line is about the meeting that should have been an email, told from a
 fresher angle: the mute button as the only honest participant in the call,
 and "sounds good" as a whole quarter's output.
+
+## Play on make.fun
+
+Referral code: `hdavhdvz` — play on [make.fun](https://make.fun).
